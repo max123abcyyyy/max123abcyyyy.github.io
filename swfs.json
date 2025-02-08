@@ -15,16 +15,37 @@
       }
     },
     {
-      "location": "swfs/alien_hominid.swf",
-      "title": "Alien Hominid",
-      "author": "Tom Fulp and Dan Paladin",
-      "authorLink": "https://www.newgrounds.com",
+      "location": "swfs/431039_TheWorldsHardestGame.swf",
+      "title": "The World's Hardest Game",
+      "author": "Snubby",
+      "authorLink": "https://snubby.newgrounds.com",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/the-worlds-hardest-g-1982.swF",
+      "title": "The World's Hardest Game 2",
+      "author": "Snubby",
+      "authorLink": "https://snubby.newgrounds.com",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/451710_16.swf",
+      "title": "The World's Hardest Game 2.1",
+      "author": "Snubby",
+      "authorLink": "https://snubby.newgrounds.com",
       "type": "Game"
     },
     {
       "location": "swfs/500616_movie.swf",
       "title": "Red Ball",
       "author": "maklaus",
+      "authorLink": "https://maklaus.newgrounds.com",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/alien_hominid.swf",
+      "title": "Alien Hominid",
+      "author": "Tom Fulp and Dan Paladin",
       "authorLink": "https://www.newgrounds.com",
       "type": "Game"
     }
