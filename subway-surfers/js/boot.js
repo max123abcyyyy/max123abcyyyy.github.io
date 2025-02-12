@@ -11,7 +11,7 @@ function loadScript(path, onComplete)
 }
 
 /** Start up Poki SDK */
-function initPokiSDK(onComplete)
+
 {
     var PokiSDK = window.PokiSDK;
 
